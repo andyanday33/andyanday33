@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0088ff)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0088ff)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff9a03)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00ff2a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
