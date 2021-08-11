@@ -6,35 +6,20 @@
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Amplify-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
