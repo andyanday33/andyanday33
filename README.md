@@ -2,6 +2,10 @@
 
 ### About Me
 
+BSc in Computer Engineering, graduated from Ege University.
+Currently attended MSc on Computer Science at the University of St. Andrews.
+Interested in Backend development.
+
 ### Technologies and Tools
 
 
