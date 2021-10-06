@@ -10,7 +10,6 @@ Interested in Backend development and Cloud Technologies.
 
 * React
 * AWS
-* Systems Design
 
 ### Technologies and Tools
 
