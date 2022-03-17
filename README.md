@@ -8,8 +8,10 @@ Interested in Backend development and Cloud Technologies.
 
 ### Currently Learning
 
-* React
-* AWS
+* Java Spring
+* Vue Js
+* GWT
+* Processing
 
 ### Technologies and Tools
 
