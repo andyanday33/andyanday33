@@ -12,6 +12,7 @@ Interested in Backend development and Cloud Technologies.
 * Nuxt.js
 * Tailwind CSS
 * Cypress
+* Distributed Systems
 
 ### Technologies and Tools
 
