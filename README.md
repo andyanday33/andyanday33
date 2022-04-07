@@ -9,9 +9,9 @@ Interested in Backend development and Cloud Technologies.
 ### Currently Learning
 
 * Java Spring
-* Vue Js
-* GWT
-* Processing
+* Nuxt.js
+* Tailwind CSS
+* Cypress
 
 ### Technologies and Tools
 
