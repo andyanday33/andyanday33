@@ -8,7 +8,7 @@ Interested in Backend development and Cloud Technologies.
 
 ### Currently Learning
 
-* Java Spring
+* Typescript
 * Nuxt.js
 * Tailwind CSS
 * Cypress
