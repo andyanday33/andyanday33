@@ -19,7 +19,7 @@ Interested in web applications.
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0088ff)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff9a03)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00ff2a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=53a66c)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00b3ff)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=53a66c)
 ![](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=53a66c)
