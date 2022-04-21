@@ -4,7 +4,7 @@
 
 BSc in Computer Engineering, graduated from Ege University.
 Currently attended MSc in Computer Science at the University of St. Andrews.
-Interested in Backend development and Cloud Technologies.
+Interested in web applications.
 
 ### Currently Learning
 
