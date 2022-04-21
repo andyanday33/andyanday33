@@ -9,10 +9,8 @@ Interested in Backend development and Cloud Technologies.
 ### Currently Learning
 
 * Typescript
-* Nuxt.js
-* Tailwind CSS
+* React
 * Cypress
-* Distributed Systems
 
 ### Technologies and Tools
 
