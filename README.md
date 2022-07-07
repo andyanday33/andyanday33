@@ -9,6 +9,7 @@ Interested in web applications.
 ### Currently Learning
 
 * Next.js
+* Astro
 * Cypress
 
 ### Tech Stack
