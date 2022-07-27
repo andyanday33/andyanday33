@@ -8,6 +8,7 @@ Interested in web applications.
 
 ### Currently Learning
 
+* .Net
 * Next.js
 * Astro
 * Cypress
