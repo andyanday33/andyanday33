@@ -10,7 +10,6 @@ Interested in web applications.
 
 * .Net
 * Next.js
-* Astro
 * Cypress
 
 ### Tech Stack
@@ -19,6 +18,7 @@ Interested in web applications.
 * Typescript
 * Javascript
 * Node.js
+* Astro
 * Java
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
