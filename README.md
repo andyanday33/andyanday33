@@ -8,7 +8,7 @@ Interested in web applications.
 
 ### Currently Learning
 
-* .Net
+* Spring Boot
 * Next.js
 * Cypress
 
