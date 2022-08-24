@@ -10,7 +10,6 @@ Interested in web applications.
 
 * Spring Boot
 * Next.js
-* Cypress
 
 ### Tech Stack
 
