@@ -8,7 +8,7 @@ Interested in web applications.
 
 ### Currently Learning
 
-* Spring Boot
+* Spring
 * Next.js
 
 ### Tech Stack
