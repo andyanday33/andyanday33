@@ -10,6 +10,7 @@ Interested in web applications.
 
 * Spring
 * Next.js
+* Prisma
 
 ### Tech Stack
 
