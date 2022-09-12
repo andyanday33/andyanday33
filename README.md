@@ -9,8 +9,7 @@ Interested in web applications.
 ### Currently Learning
 
 * Golang
-* Next.js
-* Prisma
+* .Net
 
 ### Tech Stack
 
@@ -18,6 +17,7 @@ Interested in web applications.
 * Typescript
 * Javascript
 * Node.js
+* C#
 * Astro
 * Java
 
