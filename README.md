@@ -8,7 +8,7 @@ Interested in web applications.
 
 ### Currently Learning
 
-* Golang
+* Angular
 * .Net
 
 ### Tech Stack
