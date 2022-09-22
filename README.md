@@ -9,6 +9,7 @@ Interested in web applications.
 ### Currently Learning
 
 * Angular
+* RxJS
 * .Net
 
 ### Tech Stack
