@@ -11,6 +11,7 @@ Interested in web applications.
 * Angular
 * RxJS
 * .Net
+* Azure
 
 ### Tech Stack
 
