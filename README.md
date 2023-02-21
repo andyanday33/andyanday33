@@ -2,9 +2,9 @@
 
 ### About Me
 
-BSc in Computer Engineering, graduated from Ege University.
-Currently attended MSc in Computer Science at the University of St. Andrews.
+MSc in Computer Science, graduated from the University of St. Andrews.
 Interested in web applications.
+Currently employed in Epicor
 
 ### Currently Learning
 
