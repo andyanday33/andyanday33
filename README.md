@@ -4,7 +4,7 @@
 
 MSc in Computer Science, graduated from the University of St. Andrews.
 Interested in web applications.
-Currently employed in Epicor
+Currently employed @ Epicor
 
 ### Currently Learning
 
