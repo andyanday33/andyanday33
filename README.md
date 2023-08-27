@@ -5,20 +5,16 @@
 MSc in Computer Science, graduated from the University of St. Andrews.
 Interested in web applications.
 
-### Currently Learning
-
-* Angular
-* RxJS
-* .Net
-* Azure
-
 ### Tech Stack
 
 * React
+* Next.js
 * Typescript
 * Javascript
 * Node.js
 * C#
+* PHP
+* WordPress
 * Astro
 * Java
 
